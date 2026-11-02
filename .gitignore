@@ -1,0 +1,10 @@
+# 运行时生成/敏感内容 —— 永远不进仓库
+.venv/
+conf/
+music/
+config.json
+config-example.json
+run.pid
+run.log
+*.log*
+.DS_Store
