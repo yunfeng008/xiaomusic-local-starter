@@ -41,6 +41,8 @@ bash start.sh          # 首次运行自动装依赖（需 Python 3.10+，装有
 
 全部核心能力来自 [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)（MIT）。好用请去给上游点 star。
 
+> 注：上游仓库已归档（停止维护），本包按 xiaomusic 0.6.1 整理，PyPI 仍可正常安装。
+
 ## License
 
 MIT
