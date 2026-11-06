@@ -43,6 +43,8 @@ bash start.sh          # 首次运行自动装依赖（需 Python 3.10+，装有
 
 > 注：上游仓库已归档（停止维护），本包按 xiaomusic 0.6.1 整理，PyPI 仍可正常安装。
 
+长期可以关注社区接棒项目 [Songloft](https://github.com/songloft-org/songloft)（xiaomusic 作者推荐的全新架构重写版，支持小爱音箱、Web 界面与多平台客户端）。本包定位不变：让 xiaomusic 在 Mac 裸机上继续省心跑。
+
 ## License
 
 MIT
